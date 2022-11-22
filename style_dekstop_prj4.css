@@ -1,0 +1,26 @@
+@charset "utf-8";
+@media only screen and (min-width: 992px){
+	img.logo{
+		width: 30%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	h1.logo{
+		font-size: 20px;
+	}
+	li.header{
+		display: inline-block;
+		margin-left: 13px;
+	}
+	a.header{
+		font-size: 23px;
+	}
+	div.content{
+		background-color: #DCDCDC;
+		border: 1px solid white;
+	}
+	main.dekstop{
+		margin-left: 30vw;
+		margin-right: 30vw;
+	}
+}
